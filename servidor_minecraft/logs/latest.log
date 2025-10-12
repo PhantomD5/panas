@@ -1,0 +1,18 @@
+[12Oct2025 00:01:22.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D4V3D0 was burnt to a crisp whilst fighting Blaze
+[12Oct2025 00:01:23.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: D4V3D0 moved too quickly! -0.6364651582057945,-1.2000000476837158,9.953640543356897
+[12Oct2025 00:02:51.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D4V3D0 was slain by Wither Skeleton
+[12Oct2025 00:03:00.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Phantom5 was fireballed by Blaze
+[12Oct2025 00:03:52.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Phantom5 withered away whilst fighting Skeleton
+[12Oct2025 00:03:54.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D4V3D0 tried to swim in lava to escape Skeleton
+[12Oct2025 00:05:27.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Phantom5 was burnt to a crisp whilst fighting Blaze
+[12Oct2025 00:11:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D4V3D0 was slain by Wither Skeleton
+[12Oct2025 00:24:19.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D4V3D0 was slain by Wither Skeleton
+[12Oct2025 00:49:40.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/10370, l='ServerLevel[world]', x=2585.08, y=66.90, z=1172.76] died, message: 'Fletcher was slain by Zombie'
+[12Oct2025 00:53:25.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[12Oct2025 00:57:33.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/10372, l='ServerLevel[world]', x=2583.78, y=67.00, z=1173.43] died, message: 'Fletcher was slain by Zombie'
+[12Oct2025 01:00:31.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D4V3D0 was slain by Zombie Villager
+[12Oct2025 01:02:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Phantom5 was slain by Zombie
+[12Oct2025 01:02:59.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/10371, l='ServerLevel[world]', x=2587.61, y=66.90, z=1173.50] died, message: 'Toolsmith was slain by Zombie'
+[12Oct2025 01:11:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Phantom5 has made the advancement [Local Brewery]
+[12Oct2025 01:15:51.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D4V3D0 has reached the goal [Zombie Doctor]
+[12Oct2025 01:16:12.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Phantom5 has reached the goal [Zombie Doctor]
